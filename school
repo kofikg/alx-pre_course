@@ -1,1 +1,10 @@
-echo school
+#!/bin/bash
+The school is open!
+#!/ban/bash the school is open!
+
+
+
+
+clear
+
+exit
